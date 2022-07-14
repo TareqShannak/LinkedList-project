@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587645998 source:c:\users\toshiba\desktop\second semester 19-20\comp2321\project2\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587688104 source:c:\users\toshiba\desktop\second semester 19-20\comp2321\project1\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
